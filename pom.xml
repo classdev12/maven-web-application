@@ -97,14 +97,14 @@
 	
 	    <repository>
 	      <id>nexus</id>
-	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://54.255.174.111:8081/repository/flipkart-release/</url>
+	      <name>primus learning Releases Nexus Repository</name>
+	      <url>http://35.90.194.46:8081/repository/TESLA-RELEASE/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://54.255.174.111:8081/repository/flipkart-snapshot/</url>
+	      <name>primus learning Snapshot Nexus Repository </name>
+	      <url>http://35.90.194.46:8081/repository/TESLA-REPO-SNAPSHOT/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
